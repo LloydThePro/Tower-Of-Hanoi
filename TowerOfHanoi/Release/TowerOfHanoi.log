@@ -1,0 +1,22 @@
+﻿  main.cpp
+source\main.cpp(63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+source\main.cpp(76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+source\main.cpp(293): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+source\main.cpp(294): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+source\main.cpp(297): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+source\main.cpp(314): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+source\main.cpp(316): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+source\main.cpp(317): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\pca\desktop\visual studio\towerofhanoi\source\linklist.h(168): warning C4018: '>=': signed/unsigned mismatch
+  c:\users\pca\desktop\visual studio\towerofhanoi\source\linklist.h(161): note: while compiling class template member function 'CDisk &LinkList<CDisk>::operator [](unsigned int)'
+  source\main.cpp(109): note: see reference to function template instantiation 'CDisk &LinkList<CDisk>::operator [](unsigned int)' being compiled
+  source\main.cpp(23): note: see reference to class template instantiation 'LinkList<CDisk>' being compiled
+c:\users\pca\desktop\visual studio\towerofhanoi\source\linklist.h(170): warning C4018: '<': signed/unsigned mismatch
+c:\users\pca\desktop\visual studio\towerofhanoi\source\linklist.h(185): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  1 of 100 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TowerOfHanoi.vcxproj -> C:\Users\PCA\Desktop\Visual Studio\TowerOfHanoi\Release\TowerOfHanoi.exe
+  TowerOfHanoi.vcxproj -> C:\Users\PCA\Desktop\Visual Studio\TowerOfHanoi\Release\TowerOfHanoi.pdb (Full PDB)

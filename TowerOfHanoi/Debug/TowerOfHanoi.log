@@ -1,0 +1,26 @@
+﻿  main.cpp
+c:\users\pca\desktop\visual studio\towerofhanoi\source\main.cpp(63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\pca\desktop\visual studio\towerofhanoi\source\main.cpp(76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\pca\desktop\visual studio\towerofhanoi\source\main.cpp(296): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\pca\desktop\visual studio\towerofhanoi\source\main.cpp(297): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\pca\desktop\visual studio\towerofhanoi\source\main.cpp(300): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+c:\users\pca\desktop\visual studio\towerofhanoi\source\main.cpp(309): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\pca\desktop\visual studio\towerofhanoi\source\main.cpp(310): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\pca\desktop\visual studio\towerofhanoi\source\main.cpp(323): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\pca\desktop\visual studio\towerofhanoi\source\main.cpp(325): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\pca\desktop\visual studio\towerofhanoi\source\main.cpp(326): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\pca\desktop\visual studio\towerofhanoi\source\linklist.h(168): warning C4018: '>=': signed/unsigned mismatch
+  c:\users\pca\desktop\visual studio\towerofhanoi\source\linklist.h(161): note: while compiling class template member function 'CDisk &LinkList<CDisk>::operator [](unsigned int)'
+  c:\users\pca\desktop\visual studio\towerofhanoi\source\main.cpp(109): note: see reference to function template instantiation 'CDisk &LinkList<CDisk>::operator [](unsigned int)' being compiled
+  c:\users\pca\desktop\visual studio\towerofhanoi\source\main.cpp(23): note: see reference to class template instantiation 'LinkList<CDisk>' being compiled
+c:\users\pca\desktop\visual studio\towerofhanoi\source\linklist.h(170): warning C4018: '<': signed/unsigned mismatch
+c:\users\pca\desktop\visual studio\towerofhanoi\source\linklist.h(185): warning C4018: '<': signed/unsigned mismatch
+  Renderer.cpp
+c:\users\pca\desktop\visual studio\towerofhanoi\source\renderer.cpp(253): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Compiling...
+  GLRenderer.cpp
+c:\users\pca\desktop\visual studio\towerofhanoi\source\glrenderer.cpp(22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  TowerOfHanoi.vcxproj -> C:\Users\PCA\Desktop\Visual Studio\TowerOfHanoi\Debug\TowerOfHanoi.exe
+  TowerOfHanoi.vcxproj -> C:\Users\PCA\Desktop\Visual Studio\TowerOfHanoi\Debug\TowerOfHanoi.pdb (Partial PDB)
